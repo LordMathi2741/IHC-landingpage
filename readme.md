@@ -1,0 +1,1 @@
+--Dentro de las carpetas del proyecto encontrara la division de cada una de las pantallas estructurada segun la tecnologia empleada. Adicionalmente en la division bootsrap encontrara algunos componentes que se utilizaron para probar su funcionalidad en el trabajo.
